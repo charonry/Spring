@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--抽象Bean：abstract=true的Bean，不能被IOC容器实例只能被继承配置-->
+    <bean id="address" p:city="BeiJing^" p:street="WuDaoKou" abstract="true"></bean>
+    <bean id="address2" class="com.init.spring.beans.autowire.Address" parent="address" p:street="DaZhongSi"></bean>
+    <bean id="car" class="com.init.spring.beans.autowire.Car" p:brand="Audo" p:price="2000.0"></bean>
+    <!--要求在配置person时候必须有一个关联的car-->
+    <bean id="person" class="com.init.spring.beans.autowire.Person"
+          p:name="Tom" p:address-ref="address2" depends-on="car"></bean>
+</beans>

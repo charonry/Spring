@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="artithmeticCalculator" class="com.init.spring_3.aop.xml.ArtithmeticCalculatorImpl"></bean>
+
+    <bean id="loggingAspect" class="com.init.spring_3.aop.xml.LoggingAspect"></bean>
+
+    <bean id="validationAspect" class="com.init.spring_3.aop.xml.ValidationAspect"></bean>
+
+    <!--配置AOP-->
+    <aop:config>
+        <!--配置切点表达式-->
+        <aop:pointcut id="pointcut" expression="execution( * com.init.spring_3.aop.xml.ArtithmeticCalculator.*(..))"/>
+        <!--配置切面及通知-->
+        <aop:aspect ref="loggingAspect" order="2">
+            <aop:before method="beforeMethod" pointcut-ref="pointcut"></aop:before>
+            <aop:after method="afterMethod" pointcut-ref="pointcut"></aop:after>
+            <aop:after-returning method="afterRunning" pointcut-ref="pointcut" returning="result"></aop:after-returning>
+            <aop:after-throwing method="afterThrowing" pointcut-ref="pointcut" throwing="ex"></aop:after-throwing>
+            <!--<aop:around method="around" pointcut-ref="pointcut"></aop:around>-->
+        </aop:aspect>
+        <aop:aspect ref="validationAspect" order="1">
+            <aop:before method="validateAspect" pointcut-ref="pointcut"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

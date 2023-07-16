@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1dc873e-0eed-42c4-a948-c5e0a7695eee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_15_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_jms_pool_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_pool_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_spring_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db-1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db.redo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/EmbedBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduc_Async.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_DelayAndSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_TX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/TestObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/NewPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Per.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/MyBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/InstanceCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/StaticCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factoryBean/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factoryBean/CarFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factoryBean/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/UserServcie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/properties/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/relation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/scope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/spel/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/spel/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/spel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring/beans/spel/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/ArtithmeticCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/ArtithmeticCalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/ArtithmeticCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/ArtithmeticCalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/ValidationAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ArtithmeticCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ArtithmeticCalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ValidationAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/BookShopDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/BookShopDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/BookShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/BookShopServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/BookStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/CashierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/SpringTransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/UserAccountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/BookShopDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/BookShopDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/BookStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/SpringTransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/UserAccountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/BookShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/impl/BookShopServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/impl/CashierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/BookShopDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/impl/BookShopDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Account.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Book.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/exceptions/BookStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/exceptions/UserAccountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/BookShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/impl/BookShopServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/impl/CashierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/test/SpringHibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_mq/MyMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_mq/Spring_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/init/spring_mq/Spring_Produce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-annotate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-annotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-cycle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-factory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-factoryBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-generic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-relation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-scope.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/beans-spel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_1/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_2/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_3/applicationContext-xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_3/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_4/applicationContext-tx_xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_4/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_4/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_5/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_5/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_5/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring_mq/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/com.springsource.org.junit-4.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/hibernate-core-4.2.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/javassist-3.15.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/jboss-logging-3.1.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-aop-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-aspects-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-beans-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-context-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-core-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-expression-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-jdbc-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-orm-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-tx-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-web-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/spring-webmvc-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/EmbedBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduc_Async$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduc_Async.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduce_DelayAndSchedule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduce_TX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/mq/JmsProduce_Topic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/TestObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/repository/UserJdbcRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/repository/UserRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/annotate/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/autowire/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/autowire/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/autowire/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/autowire/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/NewPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/Per.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/collections/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/cycle/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/cycle/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/cycle/MyBeanPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factory/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factory/InstanceCarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factory/StaticCarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factoryBean/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factoryBean/CarFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/factoryBean/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/BaseRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/BaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/generic/UserServcie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/properties/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/relation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/scope/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/spel/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/spel/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/spel/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring/beans/spel/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/ArtithmeticCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingProxy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/helloworld/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/impl/ArtithmeticCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/impl/ArtithmeticCalculatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/impl/LoggingAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_2/aop/impl/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/ArtithmeticCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/ArtithmeticCalculatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/LoggingAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/ValidationAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/xml/ArtithmeticCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/xml/ArtithmeticCalculatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/xml/LoggingAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/xml/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_3/aop/xml/ValidationAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/jdbcTest/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/jdbcTest/DepartmentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/jdbcTest/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/jdbcTest/EmployeeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/jdbcTest/JDBCTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/BookShopDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/BookShopDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/BookShopService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/BookShopServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/BookStockException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/CashierImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/SpringTransactionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/UserAccountException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/BookShopDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/BookShopDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/BookStockException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/SpringTransactionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/UserAccountException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/service/BookShopService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/service/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/service/impl/BookShopServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_4/tx/tx_xml/service/impl/CashierImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/dao/BookShopDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/dao/impl/BookShopDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/entities/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/entities/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/exceptions/BookStockException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/exceptions/UserAccountException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/service/BookShopService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/service/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/service/impl/BookShopServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/service/impl/CashierImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_5/hibernate/test/SpringHibernateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_mq/MyMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_mq/Spring_Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/init/spring_mq/Spring_Produce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-annotate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-annotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-cycle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-factory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-factoryBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-generic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-relation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-scope.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/beans-spel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_1/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_2/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_3/applicationContext-xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_3/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_4/applicationContext-tx_xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_4/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_4/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_5/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_5/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_5/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring_mq/applicationContext.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/LoggingAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/DepartmentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/EmployeeDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/JDBCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/BookShopService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/BookShopDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2700" />
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring_4/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring_4/applicationContext-tx_xml.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-common" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>byname</find>
+      <find>abstract=true</find>
+      <find>postProcessBeforeInitialization</find>
+      <find>cars</find>
+      <find>resource-pattern</find>
+      <find>getCurrentSession</find>
+      <find>invocation</find>
+      <find>jackson</find>
+      <find>spring</find>
+      <find>BeanPostProcessor</find>
+      <find>context:include-filter</find>
+      <find>afterRunning</find>
+      <find>artithmeticCalculator</find>
+      <find>setDataSource</find>
+      <find>namedParameterJdbcTemplate</find>
+      <find>transactionTemplate</find>
+      <find>proxy= (ArtithmeticCalculator) Proxy.newProxyInstance</find>
+      <find>@Af</find>
+      <find>spring_Produce</find>
+      <find>getLoggingProxy</find>
+      <find>BookStockException</find>
+      <find>purchase</find>
+      <find>NamedParameterJdbcTemplate</find>
+      <find>tx:annotation-driven</find>
+      <find>@Transactional</find>
+      <find>depends-on</find>
+      <find>scope</find>
+      <find>context:component-scan</find>
+      <find>&lt;context:include-filter</find>
+      <find>timeout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/exceptions/UserAccountException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/impl/CashierImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/test/SpringHibernateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/service/impl/BookShopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/BookShopDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/impl/BookShopDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Book.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring_5/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/entities/Account.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring_1/beans-cycle.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_mq/JmsProduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_mq/JmsProduce_Topic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_Topic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_TX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/EmbedBroker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_mq/Spring_Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_mq/MyMessageListener.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring_mq/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduc_Async.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/mq/JmsProduce_DelayAndSchedule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring_1/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring_1/beans-relation.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/MyBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring_mq/Spring_Produce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/InstanceCarFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MyMaven" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\MyMaven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spring Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spring Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="annotate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="annotate" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="annotate" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="autowire" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="cycle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factoryBean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="relation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_2" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_2" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_2" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_3" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_3" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tx" type="462c0819:PsiDirectoryNode" />
+              <item name="tx_xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tx" type="462c0819:PsiDirectoryNode" />
+              <item name="tx_xml" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_5" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_5" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.3062645" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development tool\IDEA_Worker\Spring\src\main\java\com\init\spring_5\hibernate\entities" />
+      <recent name="D:\development tool\IDEA_Worker\Spring\src\main\java\com\init\spring_5\hibernate\exceptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.init.spring.beans.factory.Main" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.init.spring.beans.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.init.spring.beans.cycle.Main" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.init.spring.beans.cycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.init.spring_2.aop.impl.Main" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.init.spring_2.aop.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.init.spring_3.aop.Main" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.init.spring_3.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.init.spring_2.aop.helloworld.Main" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.init.spring_2.aop.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="apache-tomcat-8.5.35" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Spring:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Spring" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Spring" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51384" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Spring:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1dc873e-0eed-42c4-a948-c5e0a7695eee" name="Default Changelist" comment="" />
+      <created>1566349965162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566349965162</updated>
+      <workItem from="1566349966515" duration="1584000" />
+      <workItem from="1566352476422" duration="9003000" />
+      <workItem from="1566375788862" duration="52000" />
+      <workItem from="1566471106106" duration="8000" />
+      <workItem from="1567133736659" duration="1582000" />
+      <workItem from="1567154625312" duration="875000" />
+      <workItem from="1568688137681" duration="12000" />
+      <workItem from="1570515860488" duration="82000" />
+      <workItem from="1572255223902" duration="1278000" />
+      <workItem from="1572257901500" duration="622000" />
+      <workItem from="1572318637099" duration="8771000" />
+      <workItem from="1572342749801" duration="6000" />
+      <workItem from="1572342930625" duration="735000" />
+      <workItem from="1572418622980" duration="3926000" />
+      <workItem from="1572485475893" duration="15333000" />
+      <workItem from="1572513722708" duration="18000" />
+      <workItem from="1572514559393" duration="12000" />
+      <workItem from="1572515907027" duration="13000" />
+      <workItem from="1572589274816" duration="75000" />
+      <workItem from="1572591928016" duration="4301000" />
+      <workItem from="1572660509840" duration="1864000" />
+      <workItem from="1572839768488" duration="7067000" />
+      <workItem from="1572915357196" duration="34000" />
+      <workItem from="1573097316099" duration="93000" />
+      <workItem from="1573440807634" duration="172000" />
+      <workItem from="1573441231212" duration="64000" />
+      <workItem from="1574215200918" duration="182000" />
+      <workItem from="1574219171116" duration="1015000" />
+      <workItem from="1574316743871" duration="680000" />
+      <workItem from="1583375081261" duration="9000" />
+      <workItem from="1583391981775" duration="9705000" />
+      <workItem from="1585877957320" duration="1406000" />
+      <workItem from="1585884596517" duration="677000" />
+      <workItem from="1586867361370" duration="968000" />
+      <workItem from="1628780494790" duration="2214000" />
+      <workItem from="1628782848340" duration="62000" />
+      <workItem from="1628783068404" duration="192000" />
+      <workItem from="1628856797651" duration="157000" />
+      <workItem from="1628857058737" duration="1553000" />
+      <workItem from="1637377321052" duration="994000" />
+      <workItem from="1689484675573" duration="2650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringHibernateTest_testDataSource - 2019.08.21 at 11h 24m 14s.xml">
+      <configuration name="SpringHibernateTest.testDataSource" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 25m 39s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 34m 36s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 45m 23s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 45m 48s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 49m 04s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 51m 08s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 55m 39s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 11h 56m 45s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringHibernateTest_testBookShopService - 2019.08.21 at 12h 00m 01s.xml">
+      <configuration name="SpringHibernateTest.testBookShopService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80046000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.23123324" />
+      <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.23600605" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35785007" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.02010724" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.06505295" />
+      <window_info anchor="right" id="BPMNPalette" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1583401291447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.init.spring.beans.annotate.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/SpringTransactionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_1/beans-factory.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_1/beans-relation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_1/beans-scope.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_1/beans-annotate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserJdbcRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/repository/UserRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/annotate/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/autowire/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/collections/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_1/beans-cycle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/cycle/MyBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/InstanceCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/StaticCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/factory/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/factoryBean/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/BaseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/generic/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/properties/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring/beans/relation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/ArtithmeticCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/LoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/impl/ArtithmeticCalculatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_2/aop/helloworld/ArtithmeticCalculatorLoggingProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_2/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_3/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ArtithmeticCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ArtithmeticCalculatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/ValidationAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_3/applicationContext-xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_3/aop/xml/LoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/EmployeeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/jdbcTest/JDBCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_4/tx/tx_xml/service/BookShopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_4/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring_4/applicationContext-tx_xml.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/init/spring_5/hibernate/dao/BookShopDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2700" />
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Spring:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3062645" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

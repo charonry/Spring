@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--通过静态方法来配置Bean，不是配置静态方法实例，而是配置Bean实例-->
+    <bean id="car1"
+          class="com.init.spring.beans.factory.StaticCarFactory"
+          factory-method="getCar">
+        <constructor-arg value="Audo"></constructor-arg>
+    </bean>
+
+    <!--配置Bean的后置处理器-->
+    <!-- <bean class="com.init.spring.beans.cycle.MyBeanPostProcessor"></bean>-->
+
+    <!--配置工厂的实例-->
+    <bean id="carFactory" class="com.init.spring.beans.factory.InstanceCarFactory"></bean>
+    <bean id="car2" factory-bean="carFactory" factory-method="getCar">
+        <constructor-arg value="Ford"></constructor-arg>
+    </bean>
+</beans>
